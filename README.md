@@ -2,8 +2,6 @@
 
 Mein Name ist Manuel Mees und wohne im Saarland
 
-![This is an image](1620108214591_small.jpg)
-
 ![This is an image](1620108214591.jpg)
 
 ### Wer bin ich?
