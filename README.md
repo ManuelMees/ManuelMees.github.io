@@ -8,7 +8,7 @@ Mein Name ist Manuel Mees und wohne im Saarland
 
 ---
 
-## Berufserfahrung
+#### Berufserfahrung
 ### **Manager IT & Kommunikation**, Sodecia Automotive Saarlouis GmbH
     • Mitarbeiterverantwortung 
     • Projektmanagement für SAP Implementierung
