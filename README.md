@@ -1,4 +1,4 @@
-## Welcome to My Page
+### Herzlich Wilkommen auf meiner Seite
 
 Mein Name ist Manuel
 
@@ -9,7 +9,7 @@ Mein Name ist Manuel
 ---
 
 ### Berufserfahrung
-## **Manager IT & Kommunikation**, Sodecia Automotive Saarlouis GmbH
+### **Manager IT & Kommunikation**, Sodecia Automotive Saarlouis GmbH
     • Mitarbeiterverantwortung 
     • Projektmanagement für SAP Implementierung
         ◦ Statusmeetings und Reporting
@@ -21,7 +21,7 @@ Mein Name ist Manuel
     • Ansprechpartner für Industie 4.0
 
 ---
-## **Business Consultant Manufacturing & Automotive**, Scheer GmbH
+### **Business Consultant Manufacturing & Automotive**, Scheer GmbH
     • SAP PEO und Stammdatenmanagement
         ◦ Systemkonfiguration und Anwendung SAP Manufacturing for Production Engineering & Operations
         ◦ Digitalisierung in der Produktion
