@@ -1,22 +1,44 @@
 ## Welcome to My Page
 
-You can use the [editor on GitHub](https://github.com/ManuelMees/ManuelMees.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 ### Wer bin ich?
 
 
-
+## Berufserfahrung
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ManuelMees/ManuelMees.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Manager IT & Kommunikation, Sodecia Automotive Saarlouis GmbH
+    • Mitarbeiterverantwortung 
+    • Projektmanagement für SAP Implementierung
+        ◦ Statusmeetings und Reporting
+        ◦ Koordination und Abstimmung mit Stakeholdern und Fachbereichen
+        ◦ Kooperation mit Beratungsunternehmen
+    • Support der Key & End User
+        ◦ Workshops, Training und Feedbackrunden
+    • Stammdatenmanagement
+    • Ansprechpartner für Industie 4.0 
+### Business Consultant Manufacturing & Automotive, Scheer GmbH, Saarbrücken
+    • SAP PEO und Stammdatenmanagement
+        ◦ Systemkonfiguration und Anwendung SAP Manufacturing for Production Engineering & Operations
+        ◦ Digitalisierung in der Produktion
+    • Umsetzungsstategie für Product Lifecycle Management im Engineering
+        ◦ Stücklistentransformation DBOM-EBOM-MBOM
+        ◦ Kollaborationsstrategie für den gesamten Wertschöpfungsprozess
+        ◦ Produktionsentwicklungsprozess  
+    • Prozessanalyse in der diskreten Fertigung
+        ◦ Prozessmodellierung-/entwicklung und Automatisierung (RPA)
+        ◦ Organisationsentwicklung
+    • Kompetenzerweiterung
+        ◦ Entwicklung eines Digitalen Zwillings
+        ◦ Künstliche Intelligenz in der Produktion
+### Qualitätsprüfer, AG der Dillinger Hüttenwerke, Dillingen
+    • Maß-/ Endkontrolle von Zahnstangen, Blechen, Behälterböden
+    • Überwachung und Freigabe von Bauteilen
+    • Zertifizierung von Bauteilen durch Abnahmezeugnisse
+### CNC - Dreher, AG der Dillinger Hüttenwerke, Dillingen
+    • Selbstständige Planung von Dreharbeiten (Material, Drehwerkzeuge)
+    • Erstellung von Drehprogrammen
+    • Herstellung von Drehteilen in Einzelteil-/ Kleinserienfertigung (Wellen, Deckel, Zapfen)
+### Produktionsmitarbeiter, AG der Dillinger Hüttenwerke, Dillingen
+    • Herstellung von Blechproben nach Norm (Sägen, Schleifen, Drehen, Fräsen)
+    • Koordination von Wärmebehandlungen von Blechproben nach Glühparametern
