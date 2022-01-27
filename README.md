@@ -37,16 +37,14 @@ Mein Name ist Manuel Mees und wohne im Saarland
         ◦ Künstliche Intelligenz in der Produktion
         
 ---
-### Qualitätsprüfer, AG der Dillinger Hüttenwerke, Dillingen
+# **Qualitätsprüfer**, AG der Dillinger Hüttenwerke
     • Maß-/ Endkontrolle von Zahnstangen, Blechen, Behälterböden
     • Überwachung und Freigabe von Bauteilen
     • Zertifizierung von Bauteilen durch Abnahmezeugnisse
----
-### CNC - Dreher, AG der Dillinger Hüttenwerke, Dillingen
+# **CNC - Dreher**
     • Selbstständige Planung von Dreharbeiten (Material, Drehwerkzeuge)
     • Erstellung von Drehprogrammen
     • Herstellung von Drehteilen in Einzelteil-/ Kleinserienfertigung (Wellen, Deckel, Zapfen)
----
-### Produktionsmitarbeiter, AG der Dillinger Hüttenwerke, Dillingen
+# **Produktionsmitarbeiter**
     • Herstellung von Blechproben nach Norm (Sägen, Schleifen, Drehen, Fräsen)
     • Koordination von Wärmebehandlungen von Blechproben nach Glühparametern
