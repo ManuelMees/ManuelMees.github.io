@@ -1,13 +1,13 @@
 ## Welcome to My Page
 
 
+
 ### Wer bin ich?
 
+---
 
 ## Berufserfahrung
-**Bold** and _Italic_ and `Code` text
-
-### Manager IT & Kommunikation, Sodecia Automotive Saarlouis GmbH
+### **Manager IT & Kommunikation**, Sodecia Automotive Saarlouis GmbH
     • Mitarbeiterverantwortung 
     • Projektmanagement für SAP Implementierung
         ◦ Statusmeetings und Reporting
@@ -16,8 +16,10 @@
     • Support der Key & End User
         ◦ Workshops, Training und Feedbackrunden
     • Stammdatenmanagement
-    • Ansprechpartner für Industie 4.0 
-### Business Consultant Manufacturing & Automotive, Scheer GmbH, Saarbrücken
+    • Ansprechpartner für Industie 4.0
+
+---
+### **Business Consultant Manufacturing & Automotive**, Scheer GmbH
     • SAP PEO und Stammdatenmanagement
         ◦ Systemkonfiguration und Anwendung SAP Manufacturing for Production Engineering & Operations
         ◦ Digitalisierung in der Produktion
