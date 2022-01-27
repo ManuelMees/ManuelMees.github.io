@@ -8,8 +8,8 @@ Mein Name ist Manuel Mees und wohne im Saarland
 
 ---
 
-#### Berufserfahrung
-### **Manager IT & Kommunikation**, Sodecia Automotive Saarlouis GmbH
+### Berufserfahrung
+## **Manager IT & Kommunikation**, Sodecia Automotive Saarlouis GmbH
     • Mitarbeiterverantwortung 
     • Projektmanagement für SAP Implementierung
         ◦ Statusmeetings und Reporting
@@ -21,7 +21,7 @@ Mein Name ist Manuel Mees und wohne im Saarland
     • Ansprechpartner für Industie 4.0
 
 ---
-### **Business Consultant Manufacturing & Automotive**, Scheer GmbH
+## **Business Consultant Manufacturing & Automotive**, Scheer GmbH
     • SAP PEO und Stammdatenmanagement
         ◦ Systemkonfiguration und Anwendung SAP Manufacturing for Production Engineering & Operations
         ◦ Digitalisierung in der Produktion
@@ -37,7 +37,7 @@ Mein Name ist Manuel Mees und wohne im Saarland
         ◦ Künstliche Intelligenz in der Produktion
         
 ---
-### **Qualitätsprüfer**, AG der Dillinger Hüttenwerke
+## **Qualitätsprüfer**, AG der Dillinger Hüttenwerke
     • Maß-/ Endkontrolle von Zahnstangen, Blechen, Behälterböden
     • Überwachung und Freigabe von Bauteilen
     • Zertifizierung von Bauteilen durch Abnahmezeugnisse
