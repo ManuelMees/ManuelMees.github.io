@@ -1,6 +1,8 @@
 ## Welcome to My Page
 
-![This is an image](https://github.com/ManuelMees/ManuelMees.github.io/blob/main/1620108214591.jpg)
+Mein Name ist Manuel Mees und wohne im Saarland 
+
+![This is an image](https://github.com/ManuelMees/ManuelMees.github.io/blob/main/1620108214591_small.png)
 
 ### Wer bin ich?
 
@@ -33,14 +35,18 @@
     • Kompetenzerweiterung
         ◦ Entwicklung eines Digitalen Zwillings
         ◦ Künstliche Intelligenz in der Produktion
+        
+---
 ### Qualitätsprüfer, AG der Dillinger Hüttenwerke, Dillingen
     • Maß-/ Endkontrolle von Zahnstangen, Blechen, Behälterböden
     • Überwachung und Freigabe von Bauteilen
     • Zertifizierung von Bauteilen durch Abnahmezeugnisse
+---
 ### CNC - Dreher, AG der Dillinger Hüttenwerke, Dillingen
     • Selbstständige Planung von Dreharbeiten (Material, Drehwerkzeuge)
     • Erstellung von Drehprogrammen
     • Herstellung von Drehteilen in Einzelteil-/ Kleinserienfertigung (Wellen, Deckel, Zapfen)
+---
 ### Produktionsmitarbeiter, AG der Dillinger Hüttenwerke, Dillingen
     • Herstellung von Blechproben nach Norm (Sägen, Schleifen, Drehen, Fräsen)
     • Koordination von Wärmebehandlungen von Blechproben nach Glühparametern
