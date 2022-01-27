@@ -2,7 +2,7 @@
 
 Mein Name ist Manuel Mees und wohne im Saarland
 
-![This is an image](https://github.com/ManuelMees/ManuelMees.github.io/blob/main/1620108214591.jpg)
+![This is an image](https://github.com/ManuelMees/ManuelMees.github.io/blob/main/1620108214591_small.png)
 
 ### Wer bin ich?
 
