@@ -53,7 +53,7 @@ Mein Name ist Manuel
 
 
 ### Bildungsweg
-###**M. Eng. Engineering and Management** (Note: 1,6)
+### **M. Eng. Engineering and Management** (Note: 1,6)
 Hochschule für Technik und Wirtschaft des Saarlandes, Saarbrücken
 
 Schwerpunkt: Industrielle Produktion
@@ -61,18 +61,18 @@ Schwerpunkt: Industrielle Produktion
 Thema der Masterarbeit: „Konzept eines Nest-Greifer-Moduls als Teil einer
 Schraubenbereitstellung für Direktverschraubungen“ 
 
-###**B. Eng. Maschinenbau & Prozesstechnik** (Note: 2,6)
+### **B. Eng. Maschinenbau & Prozesstechnik** (Note: 2,6)
 Hochschule für Technik und Wirtschaft des Saarlandes, Saarbrücken
 
 Schwerpunkt: Industrielle Produktion
 Auslandssemester in Schweden am Production Technology Center, Trollhättan
 Thema der Bachelorarbeit: „Development and Implementation of an Automated Robotic Nailgun System“
 
-###**Staatlich geprüfter Maschinentechniker** (Note: 3,1)
+### **Staatlich geprüfter Maschinentechniker** (Note: 3,1)
 Balthasar-Neumann-Technikum, Trier
 
 Thema der Technikerarbeit: „Lochbrennschneidvorrichtung für Behälterböden“
 
-###**Ausbildung zum Zerspanungsmechaniker**
+### **Ausbildung zum Zerspanungsmechaniker**
 
 
