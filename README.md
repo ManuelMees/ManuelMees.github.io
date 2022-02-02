@@ -1,6 +1,6 @@
 ### Herzlich Wilkommen auf meiner Seite
 
-Mein Name ist Manuel :thumbsup:
+Mein Name ist Manuel
 
 ![This is an image](1620108214591.jpg)
 
@@ -88,6 +88,4 @@ Thema der Technikerarbeit: „Lochbrennschneidvorrichtung für Behälterböden�
 </details>
 
 -----------
-
-[text goes here](#Herzlich Wilkommen auf meiner Seite)
-          Herzlich Wilkommen auf meiner Seite<a name="Herzlich Wilkommen auf meiner Seite"></a>  
+  
