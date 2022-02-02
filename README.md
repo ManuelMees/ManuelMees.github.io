@@ -6,7 +6,7 @@ Mein Name ist Manuel
 
 ### Wer bin ich?
 
----
+-------
 
 ### Berufserfahrung
 ### **Manager IT & Kommunikation**, Sodecia Automotive Saarlouis GmbH
@@ -20,7 +20,7 @@ Mein Name ist Manuel
     • Stammdatenmanagement
     • Ansprechpartner für Industie 4.0
 
----
+
 ### **Business Consultant Manufacturing & Automotive**, Scheer GmbH
     • SAP PEO und Stammdatenmanagement
         ◦ Systemkonfiguration und Anwendung SAP Manufacturing for Production Engineering & Operations
@@ -36,7 +36,6 @@ Mein Name ist Manuel
         ◦ Entwicklung eines Digitalen Zwillings
         ◦ Künstliche Intelligenz in der Produktion
         
----
 ### **Qualitätsprüfer**, AG der Dillinger Hüttenwerke
     • Maß-/ Endkontrolle von Zahnstangen, Blechen, Behälterböden
     • Überwachung und Freigabe von Bauteilen
@@ -51,6 +50,7 @@ Mein Name ist Manuel
     • Herstellung von Blechproben nach Norm (Sägen, Schleifen, Drehen, Fräsen)
     • Koordination von Wärmebehandlungen von Blechproben nach Glühparametern
 
+-----------
 
 ### Bildungsweg
 ### **M. Eng. Engineering and Management** (Note: 1,6)
@@ -65,7 +65,9 @@ Schraubenbereitstellung für Direktverschraubungen“
 Hochschule für Technik und Wirtschaft des Saarlandes, Saarbrücken
 
 Schwerpunkt: Industrielle Produktion
+
 Auslandssemester in Schweden am Production Technology Center, Trollhättan
+
 Thema der Bachelorarbeit: „Development and Implementation of an Automated Robotic Nailgun System“
 
 ### **Staatlich geprüfter Maschinentechniker** (Note: 3,1)
@@ -75,4 +77,4 @@ Thema der Technikerarbeit: „Lochbrennschneidvorrichtung für Behälterböden�
 
 ### **Ausbildung zum Zerspanungsmechaniker**
 
-
+-------
