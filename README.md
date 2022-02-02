@@ -7,9 +7,13 @@ Mein Name ist Manuel
 ### Wer bin ich?
 
 -------
+<details>
+<summary>Berufserfahrung</summary>
+<p>
 
-### Berufserfahrung
-### **Manager IT & Kommunikation**, Sodecia Automotive Saarlouis GmbH
+    <details2>
+    <summary2> **Manager IT & Kommunikation**, Sodecia Automotive Saarlouis GmbH </summary2>
+    <p>
     • Mitarbeiterverantwortung 
     • Projektmanagement für SAP Implementierung
         ◦ Statusmeetings und Reporting
@@ -19,8 +23,10 @@ Mein Name ist Manuel
         ◦ Workshops, Training und Feedbackrunden
     • Stammdatenmanagement
     • Ansprechpartner für Industie 4.0
+    </p>
+    </details2>
 
-
+                   
 ### **Business Consultant Manufacturing & Automotive**, Scheer GmbH
     • SAP PEO und Stammdatenmanagement
         ◦ Systemkonfiguration und Anwendung SAP Manufacturing for Production Engineering & Operations
@@ -50,6 +56,9 @@ Mein Name ist Manuel
     • Herstellung von Blechproben nach Norm (Sägen, Schleifen, Drehen, Fräsen)
     • Koordination von Wärmebehandlungen von Blechproben nach Glühparametern
 
+                   </p>
+</details>
+
 -----------
 
 ### Bildungsweg
@@ -78,3 +87,5 @@ Thema der Technikerarbeit: „Lochbrennschneidvorrichtung für Behälterböden�
 ### **Ausbildung zum Zerspanungsmechaniker**
 
 -------
+Markup : [text goes here](#section_name)
+          section_title<a name="section_name"></a>  
