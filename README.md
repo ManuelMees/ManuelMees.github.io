@@ -11,58 +11,56 @@ Mein Name ist Manuel
 <summary>Berufserfahrung</summary>
 <p>
 
-    <details2>
-    <summary2> **Manager IT & Kommunikation**, Sodecia Automotive Saarlouis GmbH </summary2>
-    <p>
-    • Mitarbeiterverantwortung 
-    • Projektmanagement für SAP Implementierung
-        ◦ Statusmeetings und Reporting
-        ◦ Koordination und Abstimmung mit Stakeholdern und Fachbereichen
-        ◦ Kooperation mit Beratungsunternehmen
-    • Support der Key & End User
-        ◦ Workshops, Training und Feedbackrunden
-    • Stammdatenmanagement
-    • Ansprechpartner für Industie 4.0
-    </p>
-    </details2>
-
-                   
+### **Manager IT & Kommunikation**, Sodecia Automotive Saarlouis GmbH 
+  
+* Mitarbeiterverantwortung 
+* Projektmanagement für SAP Implementierung
+    * Statusmeetings und Reporting
+    * Koordination und Abstimmung mit Stakeholdern und Fachbereichen
+    * Kooperation mit Beratungsunternehmen
+* Support der Key & End User
+    * Workshops, Training und Feedbackrunden
+* Stammdatenmanagement
+* Ansprechpartner für Industie 4.0
+                     
 ### **Business Consultant Manufacturing & Automotive**, Scheer GmbH
-    • SAP PEO und Stammdatenmanagement
-        ◦ Systemkonfiguration und Anwendung SAP Manufacturing for Production Engineering & Operations
-        ◦ Digitalisierung in der Produktion
-    • Umsetzungsstategie für Product Lifecycle Management im Engineering
-        ◦ Stücklistentransformation DBOM-EBOM-MBOM
-        ◦ Kollaborationsstrategie für den gesamten Wertschöpfungsprozess
-        ◦ Produktionsentwicklungsprozess  
-    • Prozessanalyse in der diskreten Fertigung
-        ◦ Prozessmodellierung-/entwicklung und Automatisierung (RPA)
-        ◦ Organisationsentwicklung
-    • Kompetenzerweiterung
-        ◦ Entwicklung eines Digitalen Zwillings
-        ◦ Künstliche Intelligenz in der Produktion
+* SAP PEO und Stammdatenmanagement
+    * Systemkonfiguration und Anwendung SAP Manufacturing for Production Engineering & Operations
+    * Digitalisierung in der Produktion
+* Umsetzungsstategie für Product Lifecycle Management im Engineering
+    * Stücklistentransformation DBOM-EBOM-MBOM
+    * Kollaborationsstrategie für den gesamten Wertschöpfungsprozess
+    * Produktionsentwicklungsprozess  
+* Prozessanalyse in der diskreten Fertigung
+    * Prozessmodellierung-/entwicklung und Automatisierung (RPA)
+    * Organisationsentwicklung
+* Kompetenzerweiterung
+    * Entwicklung eines Digitalen Zwillings
+    * Künstliche Intelligenz in der Produktion
         
 ### **Qualitätsprüfer**, AG der Dillinger Hüttenwerke
-    • Maß-/ Endkontrolle von Zahnstangen, Blechen, Behälterböden
-    • Überwachung und Freigabe von Bauteilen
-    • Zertifizierung von Bauteilen durch Abnahmezeugnisse
+* Maß-/ Endkontrolle von Zahnstangen, Blechen, Behälterböden
+* Überwachung und Freigabe von Bauteilen
+* Zertifizierung von Bauteilen durch Abnahmezeugnisse
     
-### **CNC - Dreher**
-    • Selbstständige Planung von Dreharbeiten (Material, Drehwerkzeuge)
-    • Erstellung von Drehprogrammen
-    • Herstellung von Drehteilen in Einzelteil-/ Kleinserienfertigung (Wellen, Deckel, Zapfen)
+### **CNC - Dreher**, AG der Dillinger Hüttenwerke
+* Selbstständige Planung von Dreharbeiten (Material, Drehwerkzeuge)
+* Erstellung von Drehprogrammen
+* Herstellung von Drehteilen in Einzelteil-/ Kleinserienfertigung (Wellen, Deckel, Zapfen)
     
-### **Produktionsmitarbeiter**
-    • Herstellung von Blechproben nach Norm (Sägen, Schleifen, Drehen, Fräsen)
-    • Koordination von Wärmebehandlungen von Blechproben nach Glühparametern
+### **Produktionsmitarbeiter**, AG der Dillinger Hüttenwerke
+* Herstellung von Blechproben nach Norm (Sägen, Schleifen, Drehen, Fräsen)
+* Koordination von Wärmebehandlungen von Blechproben nach Glühparametern
 
-                   </p>
+</p>
 </details>
 
 -----------
+<details>
+<summary>Bildungsweg</summary>
+<p>
 
-### Bildungsweg
-### **M. Eng. Engineering and Management** (Note: 1,6)
+### **Master of Engineering - Engineering and Management - ** (Note: 1,6)
 Hochschule für Technik und Wirtschaft des Saarlandes, Saarbrücken
 
 Schwerpunkt: Industrielle Produktion
@@ -70,7 +68,7 @@ Schwerpunkt: Industrielle Produktion
 Thema der Masterarbeit: „Konzept eines Nest-Greifer-Moduls als Teil einer
 Schraubenbereitstellung für Direktverschraubungen“ 
 
-### **B. Eng. Maschinenbau & Prozesstechnik** (Note: 2,6)
+### **Bachelor of Engineering - Maschinenbau & Prozesstechnik - ** (Note: 2,6)
 Hochschule für Technik und Wirtschaft des Saarlandes, Saarbrücken
 
 Schwerpunkt: Industrielle Produktion
@@ -86,6 +84,9 @@ Thema der Technikerarbeit: „Lochbrennschneidvorrichtung für Behälterböden�
 
 ### **Ausbildung zum Zerspanungsmechaniker**
 
--------
-Markup : [text goes here](#section_name)
-          section_title<a name="section_name"></a>  
+    </p>
+</details>
+-----------
+
+[text goes here](#Herzlich Wilkommen auf meiner Seite)
+          Herzlich Wilkommen auf meiner Seite<a name="Herzlich Wilkommen auf meiner Seite"></a>  
