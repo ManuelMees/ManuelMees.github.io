@@ -1,6 +1,6 @@
 ### Herzlich Wilkommen auf meiner Seite
 
-Mein Name ist Manuel
+Mein Name ist Manuel :thumbsup:
 
 ![This is an image](1620108214591.jpg)
 
@@ -59,8 +59,8 @@ Mein Name ist Manuel
 <details>
 <summary>Bildungsweg</summary>
 <p>
-
-### **Master of Engineering - Engineering and Management - ** (Note: 1,6)
+  
+### Master of Engineering - Engineering and Management - (Note: 1,6)
 Hochschule für Technik und Wirtschaft des Saarlandes, Saarbrücken
 
 Schwerpunkt: Industrielle Produktion
@@ -68,7 +68,7 @@ Schwerpunkt: Industrielle Produktion
 Thema der Masterarbeit: „Konzept eines Nest-Greifer-Moduls als Teil einer
 Schraubenbereitstellung für Direktverschraubungen“ 
 
-### **Bachelor of Engineering - Maschinenbau & Prozesstechnik - ** (Note: 2,6)
+### Bachelor of Engineering - Maschinenbau & Prozesstechnik -  (Note: 2,6)
 Hochschule für Technik und Wirtschaft des Saarlandes, Saarbrücken
 
 Schwerpunkt: Industrielle Produktion
@@ -77,15 +77,16 @@ Auslandssemester in Schweden am Production Technology Center, Trollhättan
 
 Thema der Bachelorarbeit: „Development and Implementation of an Automated Robotic Nailgun System“
 
-### **Staatlich geprüfter Maschinentechniker** (Note: 3,1)
+### Staatlich geprüfter Maschinentechniker (Note: 3,1)
 Balthasar-Neumann-Technikum, Trier
 
 Thema der Technikerarbeit: „Lochbrennschneidvorrichtung für Behälterböden“
 
-### **Ausbildung zum Zerspanungsmechaniker**
+### Ausbildung zum Zerspanungsmechaniker
 
-    </p>
+</p>
 </details>
+
 -----------
 
 [text goes here](#Herzlich Wilkommen auf meiner Seite)
