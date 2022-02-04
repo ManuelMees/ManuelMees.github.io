@@ -10,7 +10,7 @@ Mein Name ist Manuel
 <details><summary>Berufserfahrung</summary><blockquote><p>
     <details>
     <summary>Manager IT & Kommunikation, Sodecia Automotive Saarlouis GmbH </summary>
-<p>
+    <p>
     
 * Mitarbeiterverantwortung 
 * Projektmanagement für SAP Implementierung
