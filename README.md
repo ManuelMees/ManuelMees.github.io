@@ -7,36 +7,42 @@ Mein Name ist Manuel
 ### Wer bin ich?
 
 -------
-<details><summary>Berufserfahrung</summary><p>
-    <details><summary> **Manager IT & Kommunikation**, Sodecia Automotive Saarlouis GmbH </summary>
-
-        * Mitarbeiterverantwortung 
-        * Projektmanagement für SAP Implementierung
-            * Statusmeetings und Reporting
-            * Koordination und Abstimmung mit Stakeholdern und Fachbereichen
-            * Kooperation mit Beratungsunternehmen
-        * Support der Key & End User
-            * Workshops, Training und Feedbackrunden
-        * Stammdatenmanagement
-        * Ansprechpartner für Industie 4.0
+<details><summary>Berufserfahrung</summary><blockquote><p>
+    <details>
+    <summary>**Manager IT & Kommunikation**, Sodecia Automotive Saarlouis GmbH </summary>
+<p>
+    
+* Mitarbeiterverantwortung 
+* Projektmanagement für SAP Implementierung
+    * Statusmeetings und Reporting
+    * Koordination und Abstimmung mit Stakeholdern und Fachbereichen
+    * Kooperation mit Beratungsunternehmen
+* Support der Key & End User
+    * Workshops, Training und Feedbackrunden
+* Stammdatenmanagement
+* Ansprechpartner für Industie 4.0
+        </p>    
     </details>
+   
+    <details>
+    <summary>** Business Consultant Manufacturing & Automotive**, Scheer GmbH </summary>
+<p>
     
-    <details><summary> ### **Business Consultant Manufacturing & Automotive**, Scheer GmbH </summary><blockquote><p>
-    
-                * SAP PEO und Stammdatenmanagement
-                * Systemkonfiguration und Anwendung SAP Manufacturing for Production Engineering & Operations
-                * Digitalisierung in der Produktion
-                * Umsetzungsstategie für Product Lifecycle Management im Engineering
-                    * Stücklistentransformation DBOM-EBOM-MBOM
-                    * Kollaborationsstrategie für den gesamten Wertschöpfungsprozess
-                    * Produktionsentwicklungsprozess  
-                * Prozessanalyse in der diskreten Fertigung
-                    * Prozessmodellierung-/entwicklung und Automatisierung (RPA)
-                    * Organisationsentwicklung
-                * Kompetenzerweiterung
-                    * Entwicklung eines Digitalen Zwillings
-                    * Künstliche Intelligenz in der Produktion  
-    </blockquote></details>
+* SAP PEO und Stammdatenmanagement
+* Systemkonfiguration und Anwendung SAP Manufacturing for Production Engineering & Operations
+* Digitalisierung in der Produktion
+* Umsetzungsstategie für Product Lifecycle Management im Engineering
+    * Stücklistentransformation DBOM-EBOM-MBOM
+    * Kollaborationsstrategie für den gesamten Wertschöpfungsprozess
+    * Produktionsentwicklungsprozess  
+* Prozessanalyse in der diskreten Fertigung
+    * Prozessmodellierung-/entwicklung und Automatisierung (RPA)
+    * Organisationsentwicklung
+* Kompetenzerweiterung
+    * Entwicklung eines Digitalen Zwillings
+    * Künstliche Intelligenz in der Produktion
+        </p>      
+    </details>
 -------
     <details><summary> ### **Qualitätsprüfer**, AG der Dillinger Hüttenwerke </summary><blockquote><p>
     
