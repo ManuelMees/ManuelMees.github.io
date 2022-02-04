@@ -9,7 +9,7 @@ Mein Name ist Manuel
 -------
 <details><summary>Berufserfahrung</summary><blockquote><p>
     <details>
-    <summary>**Manager IT & Kommunikation**, Sodecia Automotive Saarlouis GmbH </summary>
+    <summary>Manager IT & Kommunikation, Sodecia Automotive Saarlouis GmbH </summary>
 <p>
     
 * Mitarbeiterverantwortung 
@@ -23,9 +23,9 @@ Mein Name ist Manuel
 * Ansprechpartner für Industie 4.0
         </p>    
     </details>
-   
-    <details>
-    <summary>** Business Consultant Manufacturing & Automotive**, Scheer GmbH </summary>
+-------   
+<details>
+<summary>Business Consultant Manufacturing & Automotive, Scheer GmbH </summary>
 <p>
     
 * SAP PEO und Stammdatenmanagement
@@ -44,76 +44,40 @@ Mein Name ist Manuel
         </p>      
     </details>
 -------
-    <details><summary> ### **Qualitätsprüfer**, AG der Dillinger Hüttenwerke </summary><blockquote><p>
+<details>
+<summary> Qualitätsprüfer, AG der Dillinger Hüttenwerke </summary>
+<p>
     
-        * Maß-/ Endkontrolle von Zahnstangen, Blechen, Behälterböden
-        * Überwachung und Freigabe von Bauteilen
-        * Zertifizierung von Bauteilen durch Abnahmezeugnisse 
-        </blockquote></details>
-    </blockquote></details>
--------     
-    <details><summary> ### **CNC - Dreher**, AG der Dillinger Hüttenwerke </summary><blockquote><p>
-    
-        * Selbstständige Planung von Dreharbeiten (Material, Drehwerkzeuge)
-        * Erstellung von Drehprogrammen
-        * Herstellung von Drehteilen in Einzelteil-/ Kleinserienfertigung (Wellen, Deckel, Zapfen)
-        </blockquote></details>
-    </blockquote></details>
--------
-    <details><summary> ### **Produktionsmitarbeiter**, AG der Dillinger Hüttenwerke </summary><blockquote><p>
-    
-        * Herstellung von Blechproben nach Norm (Sägen, Schleifen, Drehen, Fräsen)
-        * Koordination von Wärmebehandlungen von Blechproben nach Glühparametern
-        </blockquote></details>
-    </blockquote></details>
--------
-  
-  ############################################################### 
-**Manager IT & Kommunikation**, Sodecia Automotive Saarlouis GmbH 
-  
-* Mitarbeiterverantwortung 
-* Projektmanagement für SAP Implementierung
-    * Statusmeetings und Reporting
-    * Koordination und Abstimmung mit Stakeholdern und Fachbereichen
-    * Kooperation mit Beratungsunternehmen
-* Support der Key & End User
-    * Workshops, Training und Feedbackrunden
-* Stammdatenmanagement
-* Ansprechpartner für Industie 4.0
-                     
-### **Business Consultant Manufacturing & Automotive**, Scheer GmbH
-* SAP PEO und Stammdatenmanagement
-    * Systemkonfiguration und Anwendung SAP Manufacturing for Production Engineering & Operations
-    * Digitalisierung in der Produktion
-* Umsetzungsstategie für Product Lifecycle Management im Engineering
-    * Stücklistentransformation DBOM-EBOM-MBOM
-    * Kollaborationsstrategie für den gesamten Wertschöpfungsprozess
-    * Produktionsentwicklungsprozess  
-* Prozessanalyse in der diskreten Fertigung
-    * Prozessmodellierung-/entwicklung und Automatisierung (RPA)
-    * Organisationsentwicklung
-* Kompetenzerweiterung
-    * Entwicklung eines Digitalen Zwillings
-    * Künstliche Intelligenz in der Produktion
-        
-### **Qualitätsprüfer**, AG der Dillinger Hüttenwerke
 * Maß-/ Endkontrolle von Zahnstangen, Blechen, Behälterböden
 * Überwachung und Freigabe von Bauteilen
-* Zertifizierung von Bauteilen durch Abnahmezeugnisse
-    
-### **CNC - Dreher**, AG der Dillinger Hüttenwerke
+* Zertifizierung von Bauteilen durch Abnahmezeugnisse 
+        </p>
+    </details>
+-------     
+<details>
+<summary>CNC - Dreher, AG der Dillinger Hüttenwerke </summary>
+<p>
+
 * Selbstständige Planung von Dreharbeiten (Material, Drehwerkzeuge)
 * Erstellung von Drehprogrammen
 * Herstellung von Drehteilen in Einzelteil-/ Kleinserienfertigung (Wellen, Deckel, Zapfen)
+        </p>
+    </details>
+-------
+<details>
+<summary>Produktionsmitarbeiter, AG der Dillinger Hüttenwerke </summary>
+<p>
     
-### **Produktionsmitarbeiter**, AG der Dillinger Hüttenwerke
 * Herstellung von Blechproben nach Norm (Sägen, Schleifen, Drehen, Fräsen)
 * Koordination von Wärmebehandlungen von Blechproben nach Glühparametern
-
+        </p>    
+    </details>
+-------
 </p>
 </details>
-
------------
+    
+-------
+    
 <details>
 <summary>Bildungsweg</summary><p>
   
