@@ -10,20 +10,19 @@ Mein Name ist Manuel
 <details>
 <summary>Berufserfahrung</summary><blockquote><p>
     <details><summary> **Manager IT & Kommunikation**, Sodecia Automotive Saarlouis GmbH </summary><blockquote><p>
-        <details><summary> Tätigkeiten </summary><blockquote>
-                * Mitarbeiterverantwortung 
-                * Projektmanagement für SAP Implementierung
-                    * Statusmeetings und Reporting
-                    * Koordination und Abstimmung mit Stakeholdern und Fachbereichen
-                    * Kooperation mit Beratungsunternehmen
-                * Support der Key & End User
-                    * Workshops, Training und Feedbackrunden
-                * Stammdatenmanagement
-                * Ansprechpartner für Industie 4.0
-        </blockquote></details>
+        
+        * Mitarbeiterverantwortung 
+        * Projektmanagement für SAP Implementierung
+            * Statusmeetings und Reporting
+            * Koordination und Abstimmung mit Stakeholdern und Fachbereichen
+            * Kooperation mit Beratungsunternehmen
+        * Support der Key & End User
+            * Workshops, Training und Feedbackrunden
+        * Stammdatenmanagement
+        * Ansprechpartner für Industie 4.0
     </blockquote></details>
     <details><summary> ### **Business Consultant Manufacturing & Automotive**, Scheer GmbH </summary><blockquote><p>
-        <details><summary> Tätigkeiten </summary><blockquote>
+    
                 * SAP PEO und Stammdatenmanagement
                 * Systemkonfiguration und Anwendung SAP Manufacturing for Production Engineering & Operations
                 * Digitalisierung in der Produktion
@@ -39,11 +38,9 @@ Mein Name ist Manuel
                     * Künstliche Intelligenz in der Produktion  
         </blockquote></details>
     </blockquote></details>
-  
 -------
-  
     <details><summary> ### **Qualitätsprüfer**, AG der Dillinger Hüttenwerke </summary><blockquote><p>
-        <details><summary> Tätigkeiten </summary><blockquote>
+    
         * Maß-/ Endkontrolle von Zahnstangen, Blechen, Behälterböden
         * Überwachung und Freigabe von Bauteilen
         * Zertifizierung von Bauteilen durch Abnahmezeugnisse 
@@ -51,7 +48,7 @@ Mein Name ist Manuel
     </blockquote></details>
 -------     
     <details><summary> ### **CNC - Dreher**, AG der Dillinger Hüttenwerke </summary><blockquote><p>
-        <details><summary> Tätigkeiten </summary><blockquote>
+    
         * Selbstständige Planung von Dreharbeiten (Material, Drehwerkzeuge)
         * Erstellung von Drehprogrammen
         * Herstellung von Drehteilen in Einzelteil-/ Kleinserienfertigung (Wellen, Deckel, Zapfen)
@@ -59,7 +56,7 @@ Mein Name ist Manuel
     </blockquote></details>
 -------
     <details><summary> ### **Produktionsmitarbeiter**, AG der Dillinger Hüttenwerke </summary><blockquote><p>
-        <details><summary> Tätigkeiten </summary><blockquote>
+    
         * Herstellung von Blechproben nach Norm (Sägen, Schleifen, Drehen, Fräsen)
         * Koordination von Wärmebehandlungen von Blechproben nach Glühparametern
         </blockquote></details>
