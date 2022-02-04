@@ -7,10 +7,9 @@ Mein Name ist Manuel
 ### Wer bin ich?
 
 -------
-<details>
-<summary>Berufserfahrung</summary><blockquote><p>
-    <details><summary> **Manager IT & Kommunikation**, Sodecia Automotive Saarlouis GmbH </summary><blockquote><p>
-        
+<details><summary>Berufserfahrung</summary><p>
+    <details><summary> **Manager IT & Kommunikation**, Sodecia Automotive Saarlouis GmbH </summary>
+
         * Mitarbeiterverantwortung 
         * Projektmanagement für SAP Implementierung
             * Statusmeetings und Reporting
@@ -20,7 +19,8 @@ Mein Name ist Manuel
             * Workshops, Training und Feedbackrunden
         * Stammdatenmanagement
         * Ansprechpartner für Industie 4.0
-    </blockquote></details>
+    </details>
+    
     <details><summary> ### **Business Consultant Manufacturing & Automotive**, Scheer GmbH </summary><blockquote><p>
     
                 * SAP PEO und Stammdatenmanagement
@@ -36,7 +36,6 @@ Mein Name ist Manuel
                 * Kompetenzerweiterung
                     * Entwicklung eines Digitalen Zwillings
                     * Künstliche Intelligenz in der Produktion  
-        </blockquote></details>
     </blockquote></details>
 -------
     <details><summary> ### **Qualitätsprüfer**, AG der Dillinger Hüttenwerke </summary><blockquote><p>
