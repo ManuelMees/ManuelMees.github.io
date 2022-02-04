@@ -8,9 +8,65 @@ Mein Name ist Manuel
 
 -------
 <details>
-<summary>Berufserfahrung</summary>
-<p>
-
+<summary>Berufserfahrung</summary><blockquote><p>
+    <details><summary> **Manager IT & Kommunikation**, Sodecia Automotive Saarlouis GmbH </summary><blockquote><p>
+        <details><summary> Tätigkeiten </summary><blockquote>
+                * Mitarbeiterverantwortung 
+                * Projektmanagement für SAP Implementierung
+                    * Statusmeetings und Reporting
+                    * Koordination und Abstimmung mit Stakeholdern und Fachbereichen
+                    * Kooperation mit Beratungsunternehmen
+                * Support der Key & End User
+                    * Workshops, Training und Feedbackrunden
+                * Stammdatenmanagement
+                * Ansprechpartner für Industie 4.0
+        </blockquote></details>
+    </blockquote></details>
+    <details><summary> ### **Business Consultant Manufacturing & Automotive**, Scheer GmbH </summary><blockquote><p>
+        <details><summary> Tätigkeiten </summary><blockquote>
+                * SAP PEO und Stammdatenmanagement
+                * Systemkonfiguration und Anwendung SAP Manufacturing for Production Engineering & Operations
+                * Digitalisierung in der Produktion
+                * Umsetzungsstategie für Product Lifecycle Management im Engineering
+                    * Stücklistentransformation DBOM-EBOM-MBOM
+                    * Kollaborationsstrategie für den gesamten Wertschöpfungsprozess
+                    * Produktionsentwicklungsprozess  
+                * Prozessanalyse in der diskreten Fertigung
+                    * Prozessmodellierung-/entwicklung und Automatisierung (RPA)
+                    * Organisationsentwicklung
+                * Kompetenzerweiterung
+                    * Entwicklung eines Digitalen Zwillings
+                    * Künstliche Intelligenz in der Produktion  
+        </blockquote></details>
+    </blockquote></details>
+  
+-------
+  
+    <details><summary> ### **Qualitätsprüfer**, AG der Dillinger Hüttenwerke </summary><blockquote><p>
+        <details><summary> Tätigkeiten </summary><blockquote>
+        * Maß-/ Endkontrolle von Zahnstangen, Blechen, Behälterböden
+        * Überwachung und Freigabe von Bauteilen
+        * Zertifizierung von Bauteilen durch Abnahmezeugnisse 
+        </blockquote></details>
+    </blockquote></details>
+-------     
+    <details><summary> ### **CNC - Dreher**, AG der Dillinger Hüttenwerke </summary><blockquote><p>
+        <details><summary> Tätigkeiten </summary><blockquote>
+        * Selbstständige Planung von Dreharbeiten (Material, Drehwerkzeuge)
+        * Erstellung von Drehprogrammen
+        * Herstellung von Drehteilen in Einzelteil-/ Kleinserienfertigung (Wellen, Deckel, Zapfen)
+        </blockquote></details>
+    </blockquote></details>
+-------
+    <details><summary> ### **Produktionsmitarbeiter**, AG der Dillinger Hüttenwerke </summary><blockquote><p>
+        <details><summary> Tätigkeiten </summary><blockquote>
+        * Herstellung von Blechproben nach Norm (Sägen, Schleifen, Drehen, Fräsen)
+        * Koordination von Wärmebehandlungen von Blechproben nach Glühparametern
+        </blockquote></details>
+    </blockquote></details>
+-------
+  
+  ############################################################### 
 **Manager IT & Kommunikation**, Sodecia Automotive Saarlouis GmbH 
   
 * Mitarbeiterverantwortung 
@@ -57,8 +113,7 @@ Mein Name ist Manuel
 
 -----------
 <details>
-<summary>Bildungsweg</summary>
-<p>
+<summary>Bildungsweg</summary><p>
   
 ### Master of Engineering - Engineering and Management - (Note: 1,6)
 Hochschule für Technik und Wirtschaft des Saarlandes, Saarbrücken
