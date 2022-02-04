@@ -21,7 +21,7 @@ Mein Name ist Manuel
         * Workshops, Training und Feedbackrunden
     * Stammdatenmanagement
     * Ansprechpartner für Industie 4.0
-    </p>    
+        </p>    
     </details>
 -------   
 <details>
