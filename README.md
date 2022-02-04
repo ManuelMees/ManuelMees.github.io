@@ -12,16 +12,16 @@ Mein Name ist Manuel
     <summary>Manager IT & Kommunikation, Sodecia Automotive Saarlouis GmbH </summary>
     <p>
     
-* Mitarbeiterverantwortung 
-* Projektmanagement für SAP Implementierung
-    * Statusmeetings und Reporting
-    * Koordination und Abstimmung mit Stakeholdern und Fachbereichen
-    * Kooperation mit Beratungsunternehmen
-* Support der Key & End User
-    * Workshops, Training und Feedbackrunden
-* Stammdatenmanagement
-* Ansprechpartner für Industie 4.0
-        </p>    
+    * Mitarbeiterverantwortung 
+    * Projektmanagement für SAP Implementierung
+        * Statusmeetings und Reporting
+        * Koordination und Abstimmung mit Stakeholdern und Fachbereichen
+        * Kooperation mit Beratungsunternehmen
+    * Support der Key & End User
+        * Workshops, Training und Feedbackrunden
+    * Stammdatenmanagement
+    * Ansprechpartner für Industie 4.0
+    </p>    
     </details>
 -------   
 <details>
