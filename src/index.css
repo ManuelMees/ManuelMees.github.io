@@ -1,0 +1,96 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    @apply overflow-x-hidden;
+  }
+  
+  body {
+    @apply antialiased text-gray-200 overflow-x-hidden;
+  }
+
+  input, textarea {
+    @apply bg-gray-800/80 border-gray-700 text-gray-200 focus:ring-[#66A8C2] focus:border-[#66A8C2];
+  }
+}
+
+/* Mobile menu specific styles */
+@media (max-width: 1024px) {
+  .mobile-menu-open {
+    @apply overflow-hidden;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-[#66A8C2] hover:bg-[#66A8C2]/80 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#66A8C2];
+  }
+
+  .card {
+    @apply bg-white/10 backdrop-blur-lg rounded-xl border border-white/10 shadow-xl;
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-r from-[#66A8C2] to-[#0EA4C4] bg-clip-text text-transparent;
+  }
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-scroll {
+  animation: scroll 30s linear infinite;
+}
+
+/* Gradient animations */
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.animate-gradient {
+  background-size: 200% 200%;
+  animation: gradient 15s ease infinite;
+}
+
+/* Particle glow effect */
+.particle {
+  filter: blur(4px);
+  opacity: 0.7;
+  mix-blend-mode: screen;
+}
+
+/* Improved text contrast */
+.text-contrast {
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.text-contrast-strong {
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Glass card effects */
+.glass-card {
+  @apply backdrop-blur-lg bg-white/10 border border-white/10;
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+}
+
+.glass-card-hover {
+  @apply glass-card hover:bg-white/20 transition-all duration-300;
+}
