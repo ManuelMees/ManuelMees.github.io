@@ -42,6 +42,12 @@ body {
     padding: 2rem;
 }
 
+/* global section spacing */
+section {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
 /* Header */
 .site-header {
     position: sticky;
@@ -152,11 +158,21 @@ body {
     padding: 4.5rem 0
 }
 
+.hero-section {
+    padding-bottom: 2.5rem;
+}
+
 .hero-grid {
     display: grid;
     grid-template-columns: 1fr 460px;
     gap: 2.25rem;
     align-items: center
+}
+
+.hero-grid {
+    grid-template-columns: 1fr 480px;
+    gap: 2.5rem;
+    align-content: center;
 }
 
 .hero-content h1 {
@@ -229,6 +245,33 @@ body {
     font-size: 0.9rem
 }
 
+/* Section title */
+.section-title {
+    text-align: center;
+    font-size: 1.6rem;
+    margin-bottom: 0.5rem;
+}
+
+/* About grid */
+.about-grid {
+    display: grid;
+    grid-template-columns: 1fr 420px;
+    gap: 2rem;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.about-text p {
+    color: var(--muted);
+    margin-bottom: 1rem;
+}
+
+.about-image img {
+    width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 20px 40px rgba(3, 10, 30, 0.45);
+}
+
 /* Services */
 .services-section {
     padding: 3rem 0
@@ -244,6 +287,13 @@ body {
     grid-template-columns: repeat(3, 1fr);
     gap: 1.25rem;
     margin-top: 1.5rem
+}
+
+.service-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1.25rem;
+    margin-top: 1.5rem;
 }
 
 .card {
@@ -282,33 +332,61 @@ body {
     height: 40px;
     fill: none;
     stroke: currentColor;
-
-    /* About section styling */
-    .about-section {
-        padding: 3rem 0;
-    }
-
-    .about-section h2 {
-        margin-bottom: 0.5rem;
-        font-size: 1.75rem;
-    }
-
-    .about-section p {
-        color: var(--muted);
-        margin-bottom: 1rem;
-        max-width: 78ch;
-    }
-
     stroke-width: 1.2;
-    color: var(--accent-2)
+    color: var(--accent-2);
 }
 
 .card-icon svg path,
 .card-icon svg rect {
     stroke: currentColor;
     stroke-width: 1.2;
-    fill: none
+    fill: none;
 }
+
+/* Approach / agile section styles */
+.approach-section {
+    padding: 3rem 0;
+}
+
+.approach-section h2 {
+    font-size: 1.75rem;
+    margin-bottom: 0.5rem;
+}
+
+.approach-section .lead {
+    color: var(--muted);
+    margin-bottom: 1rem;
+}
+
+.approach-section .service-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem;
+    margin-top: 1rem
+}
+
+.approach-section .card {
+    padding: 0.9rem
+}
+
+.approach-section .card h3 {
+    font-size: 1.05rem
+}
+
+.tech-grid {
+    margin-top: 0.75rem
+}
+
+.tech-item {
+    background: rgba(255, 255, 255, 0.02);
+    padding: 0.5rem;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.03);
+    color: var(--muted);
+    text-align: center;
+    font-size: 0.95rem
+}
+
 
 /* Contact */
 .contact-section {
@@ -371,14 +449,12 @@ textarea {
 /* Footer */
 .site-footer {
     padding: 2rem 0;
-    border-top: 1px solid rgba(255, 255, 255, 0.02);
-    margin-top: 2.5rem
 }
 
 .footer-inner {
     display: flex;
     align-items: center;
-    justify-content: center
+    justify-content: center;
 }
 
 .muted {
@@ -401,6 +477,12 @@ textarea {
 
     .contact-grid {
         grid-template-columns: 1fr
+    }
+}
+
+@media (max-width: 1100px) {
+    .about-grid {
+        grid-template-columns: 1fr;
     }
 }
 
