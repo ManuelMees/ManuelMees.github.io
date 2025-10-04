@@ -36,15 +36,15 @@ if (contactForm) {
         const message = contactForm.querySelector('[name="message"]').value.trim();
 
         if (!name || !email || !message) {
-            formStatus.textContent = 'Please complete all fields.';
+            formStatus.textContent = 'Bitte füllen Sie alle Felder aus.';
             return;
         }
 
         // Simulate send
-        formStatus.textContent = 'Sending message...';
+        formStatus.textContent = 'Nachricht wird gesendet...';
         setTimeout(() => {
             contactForm.reset();
-            formStatus.textContent = 'Thanks — your message has been sent (demo).';
+            formStatus.textContent = 'Danke — Ihre Nachricht wurde gesendet (Demo).';
         }, 900);
     });
 }
