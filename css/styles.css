@@ -282,6 +282,23 @@ body {
     height: 40px;
     fill: none;
     stroke: currentColor;
+
+    /* About section styling */
+    .about-section {
+        padding: 3rem 0;
+    }
+
+    .about-section h2 {
+        margin-bottom: 0.5rem;
+        font-size: 1.75rem;
+    }
+
+    .about-section p {
+        color: var(--muted);
+        margin-bottom: 1rem;
+        max-width: 78ch;
+    }
+
     stroke-width: 1.2;
     color: var(--accent-2)
 }
