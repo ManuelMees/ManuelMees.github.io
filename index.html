@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Panoramic Insight — Business innovation, AI strategy and implementation to help organizations scale with data and AI.">
+    <title>Panoramic Insight | Business Innovation & AI Solutions</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+    <header class="site-header">
+        <div class="container header-inner">
+            <a class="logo" href="index.html">Panoramic Insight</a>
+
+            <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
+                <span class="hamburger"></span>
+            </button>
+
+            <nav class="site-nav" id="siteNav">
+                <ul>
+                    <li><a href="#hero">Home</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="hero" class="hero-section">
+            <div class="container hero-grid">
+                <div class="hero-content">
+                    <h1>Helping your business adopt AI with practical strategy & engineering</h1>
+                    <p class="lead">We design roadmaps, build data platforms and ship AI systems that deliver measurable
+                        outcomes.</p>
+                    <div class="hero-actions">
+                        <a href="#contact" class="btn primary">Get in Touch</a>
+                        <a href="#services" class="btn ghost">Our Services</a>
+                    </div>
+                    <ul class="trust">
+                        <li>Strategy & Consulting</li>
+                        <li>Data Platforms</li>
+                        <li>Operational AI</li>
+                    </ul>
+                </div>
+                <div class="hero-image">
+                    <img src="assets/Grafik Lean.png" alt="Abstract graphic" />
+                </div>
+            </div>
+        </section>
+
+        <section id="services" class="services-section">
+            <div class="container">
+                <h2>What we do</h2>
+                <p class="section-intro">End-to-end services to take ideas from strategy to production.</p>
+
+                <div class="service-cards">
+                    <article class="card">
+                        <div class="card-icon">🔍</div>
+                        <h3>Consulting</h3>
+                        <p>AI strategy, opportunity assessment and actionable roadmaps.</p>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-icon">🛠️</div>
+                        <h3>Implementation</h3>
+                        <p>Data platforms, ML engineering and production-grade models.</p>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-icon">⚙️</div>
+                        <h3>Support & Scaling</h3>
+                        <p>Monitoring, optimization and scaling practices for sustained value.</p>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact" class="contact-section">
+            <div class="container contact-grid">
+                <div class="contact-card">
+                    <h2>Let's talk</h2>
+                    <p>Tell us about your challenge and we'll propose a next step.</p>
+                    <form id="contactForm">
+                        <div class="form-row">
+                            <label for="name">Name</label>
+                            <input id="name" name="name" type="text" required>
+                        </div>
+                        <div class="form-row">
+                            <label for="email">Email</label>
+                            <input id="email" name="email" type="email" required>
+                        </div>
+                        <div class="form-row">
+                            <label for="message">Message</label>
+                            <textarea id="message" name="message" rows="5" required></textarea>
+                        </div>
+                        <div class="form-actions">
+                            <button type="submit" class="btn primary">Send Message</button>
+                        </div>
+                        <p class="form-status" id="formStatus" aria-live="polite"></p>
+                    </form>
+                </div>
+
+                <aside class="contact-info">
+                    <h3>Contact details</h3>
+                    <p>Email: hello@panoramic-insight.example</p>
+                    <p>Based in: Europe</p>
+                    <p class="small">© 2025 Panoramic Insight</p>
+                </aside>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container footer-inner">
+            <p>Built with care — Panoramic Insight • <span class="muted">Follow us on GitHub</span></p>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>
