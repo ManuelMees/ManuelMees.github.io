@@ -59,12 +59,34 @@ body {
     padding: 1rem 0;
 }
 
+
 .logo {
-    font-weight: 700;
-    color: var(--accent);
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
     text-decoration: none;
-    font-size: 1.15rem;
-    letter-spacing: 0.2px
+}
+
+.logo-img {
+    height: 48px;
+    width: auto;
+    display: block;
+}
+
+.logo-text {
+    color: var(--accent);
+    font-weight: 700;
+    font-size: 1.05rem;
+    line-height: 1;
+    letter-spacing: 0.2px;
+}
+
+.logo-by {
+    font-weight: 400;
+    font-size: 0.65rem;
+    color: var(--muted);
+    display: block;
+    margin-top: 2px;
 }
 
 .site-nav ul {
@@ -72,7 +94,8 @@ body {
     margin: 0;
     padding: 0;
     display: flex;
-    gap: 1rem
+    gap: 1rem;
+    align-items: center;
 }
 
 .site-nav a {
@@ -95,7 +118,7 @@ body {
     background: none;
     border: 0;
     padding: 0;
-    margin-left: 1rem
+    margin-left: 1rem;
 }
 
 .hamburger {
