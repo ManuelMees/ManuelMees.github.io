@@ -230,6 +230,87 @@
                             Saarlänna".</p>
                     </article>
                 </div>
+                <!-- 🔹 Bild-Karussell START -->
+                <div class="karussell">
+                    <div class="slides">
+                        <img src="assets\1620108214591_small.jpg" alt="Bild 1">
+                        <img src="https://www.istockphoto.com/de/video/two-young-engineer-in-factory-programs-robotic-equipment-using-laptop-focusing-on-gm2168046668-588080132?searchscope=image%2Cfilm"
+                            alt="Bild 2">
+                        <img src="https://picsum.photos/id/1039/800/400" alt="Bild 3">
+                    </div>
+
+                    <div class="buttons">
+                        <button id="prev">&#10094;</button>
+                        <button id="next">&#10095;</button>
+                    </div>
+
+                    <div class="indikatoren">
+                        <span class="aktiv"></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </div>
+
+                <script>
+                    const slides = document.querySelector('.slides');
+                    const indikatoren = document.querySelectorAll('.indikatoren span');
+                    const totalSlides = indikatoren.length;
+                    let index = 0;
+
+                    const updateSlider = () => {
+                        slides.style.transform = `translateX(-${index * 100}%)`;
+                        indikatoren.forEach(p => p.classList.remove('aktiv'));
+                        indikatoren[index].classList.add('aktiv');
+                    };
+
+                    document.getElementById('next').addEventListener('click', () => {
+                        index = (index + 1) % totalSlides;
+                        updateSlider();
+                    });
+
+                    document.getElementById('prev').addEventListener('click', () => {
+                        index = (index - 1 + totalSlides) % totalSlides;
+                        updateSlider();
+                    });
+
+                    indikatoren.forEach((punkt, i) => {
+                        punkt.addEventListener('click', () => {
+                            index = i;
+                            updateSlider();
+                        });
+                    });
+
+                    let autoSlide = setInterval(() => {
+                        index = (index + 1) % totalSlides;
+                        updateSlider();
+                    }, 5000);
+
+                    // Swipe-Unterstützung (Touch)
+                    let startX = 0;
+                    let endX = 0;
+
+                    slides.addEventListener('touchstart', e => {
+                        startX = e.touches[0].clientX;
+                        clearInterval(autoSlide);
+                    });
+
+                    slides.addEventListener('touchmove', e => {
+                        endX = e.touches[0].clientX;
+                    });
+
+                    slides.addEventListener('touchend', () => {
+                        const diff = startX - endX;
+                        if (diff > 50) index = (index + 1) % totalSlides;
+                        if (diff < -50) index = (index - 1 + totalSlides) % totalSlides;
+                        updateSlider();
+                        autoSlide = setInterval(() => {
+                            index = (index + 1) % totalSlides;
+                            updateSlider();
+                        }, 5000);
+                    });
+                </script>
+                <!-- 🔹 Bild-Karussell ENDE -->
+
             </div>
         </section></svg>
         <!-- Linie: wächst beim Laden von links nach rechts -->

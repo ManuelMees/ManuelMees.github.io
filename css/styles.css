@@ -657,3 +657,80 @@ textarea {
 }
 
 /* ---- Ende Linie + Animation ---- */
+
+/* --- Karussell --- */
+.karussell {
+    position: relative;
+    width: 80%;
+    max-width: 700px;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* --- Bilderreihe --- */
+.slides {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.slides img {
+    width: 100%;
+    border-radius: 10px;
+    flex-shrink: 0;
+    user-select: none;
+    pointer-events: none;
+    /* verhindert Bildziehen auf Mobile */
+}
+
+/* --- Pfeilnavigation --- */
+.buttons {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    transform: translateY(-50%);
+}
+
+.buttons button {
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    padding: 10px 15px;
+    border-radius: 50%;
+    transition: background-color 0.3s;
+}
+
+.buttons button:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* --- Punkte unten --- */
+.indikatoren {
+    text-align: center;
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+}
+
+.indikatoren span {
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    margin: 0 5px;
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.indikatoren .aktiv {
+    background-color: white;
+}
+
+.indikatoren .aktiv {
+    background-color: white;
+}
