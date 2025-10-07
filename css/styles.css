@@ -631,41 +631,29 @@ textarea {
 }
 
 /* ---- Linie + Animation ---- */
+/* ---- Grunddesign ---- */
 .linie-container {
-    width: 100%;
-    /* volle Breite (Containerbreite) */
+    width: 80%;
     height: 4px;
-    /* Dicke der Linie */
     background-color: #ddd;
-    /* Hintergrundlinie (optional) */
+    margin: 100px auto;
+    /* etwas Platz oben/unten */
     overflow: hidden;
-    /* schneidet die animierte Linie sauber ab */
+    border-radius: 2px;
 }
 
+/* ---- Linie selbst ---- */
 .linie {
     width: 0;
-    /* Startbreite der animierten Linie */
     height: 100%;
     background-color: #007bff;
-    /* Farbe der animierten Linie */
-    animation: wachsen 2s ease-out forwards;
-    /* 2s-Animation, bleibt stehen */
+    transition: width 2s ease-out;
+    /* sanftes Wachsen */
 }
 
-@keyframes wachsen {
-    from {
-        width: 0;
-    }
-
-    to {
-        width: 100%;
-    }
-
-    /* wächst bis zur vollen Containerbreite */
+/* ---- Zustand, wenn sie sichtbar ist ---- */
+.linie.aktiv {
+    width: 100%;
 }
 
-/* ---- (Optional) Anpassungen ---- */
-/* Dicke ändern: .linie-container { height: 6px; } */
-/* Farbe ändern: .linie { background-color: #ff6600; } */
-/* Dauer ändern: .linie { animation: wachsen 1.2s ease-out forwards; } */
-/* Wiederholen lassen: .linie { animation: wachsen 2s linear infinite; } */
+/* ---- Ende Linie + Animation ---- */

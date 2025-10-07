@@ -48,3 +48,21 @@ if (contactForm) {
         }, 900);
     });
 }
+
+//JavaScript am Ende-- >
+
+// alle Linien finden
+const linien = document.querySelectorAll('.linie');
+
+// Intersection Observer erstellen
+const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+        if (entry.isIntersecting) {
+            entry.target.classList.add('aktiv'); // Animation starten
+            observer.unobserve(entry.target);    // nur einmal animieren
+        }
+    });
+}, { threshold: 0.5 }); // 0.5 = Linie muss zu 50% sichtbar sein
+
+// jede Linie beobachten
+linien.forEach(linie => observer.observe(linie));
