@@ -350,7 +350,7 @@ section {
     background: linear-gradient(180deg, rgba(255, 255, 255, 0.02), rgba(255, 255, 255, 0.01));
     padding: 1.25rem;
     border-radius: 16px;
-    border: 1px solid rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.34);
     backdrop-filter: blur(4px);
     transition: transform 200ms ease, box-shadow 200ms ease
 }
@@ -629,3 +629,43 @@ textarea {
 .site-nav.open a {
     padding: 0.6rem 1rem
 }
+
+/* ---- Linie + Animation ---- */
+.linie-container {
+    width: 100%;
+    /* volle Breite (Containerbreite) */
+    height: 4px;
+    /* Dicke der Linie */
+    background-color: #ddd;
+    /* Hintergrundlinie (optional) */
+    overflow: hidden;
+    /* schneidet die animierte Linie sauber ab */
+}
+
+.linie {
+    width: 0;
+    /* Startbreite der animierten Linie */
+    height: 100%;
+    background-color: #007bff;
+    /* Farbe der animierten Linie */
+    animation: wachsen 2s ease-out forwards;
+    /* 2s-Animation, bleibt stehen */
+}
+
+@keyframes wachsen {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 100%;
+    }
+
+    /* wächst bis zur vollen Containerbreite */
+}
+
+/* ---- (Optional) Anpassungen ---- */
+/* Dicke ändern: .linie-container { height: 6px; } */
+/* Farbe ändern: .linie { background-color: #ff6600; } */
+/* Dauer ändern: .linie { animation: wachsen 1.2s ease-out forwards; } */
+/* Wiederholen lassen: .linie { animation: wachsen 2s linear infinite; } */
