@@ -66,3 +66,9 @@ const observer = new IntersectionObserver((entries) => {
 
 // jede Linie beobachten
 linien.forEach(linie => observer.observe(linie));
+
+// Calendly Inline Widget
+Calendly.initInlineWidget({
+    url: 'https://calendly.com/https://calendly.com/manuel-mees/30min?hide_event_type_details=1',
+    parentElement: document.getElementById('calendly-embed')
+});
