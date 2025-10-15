@@ -158,6 +158,57 @@
                         </p>
                     </article>
                 </div>
+                <!-- PARTNER LOGO BANNER -->
+                <section class="py-16 bg-[#F2EBF0]">
+                    <h2 class="text-2xl md:text-3xl font-bold text-center text-[#0D375D] mb-10">
+                        Unternehmen, mit denen ich zusammenarbeite
+                    </h2>
+
+                    <div class="overflow-hidden relative">
+                        <div class="flex animate-scroll space-x-12">
+                            <!-- Logos – du kannst beliebig viele hinzufügen -->
+                            <img src="logos/logo1.png" alt="Kunde 1"
+                                class="h-12 md:h-16 object-contain opacity-80 hover:opacity-100 transition" />
+                            <img src="logos/logo2.png" alt="Kunde 2"
+                                class="h-12 md:h-16 object-contain opacity-80 hover:opacity-100 transition" />
+                            <img src="logos/logo3.png" alt="Kunde 3"
+                                class="h-12 md:h-16 object-contain opacity-80 hover:opacity-100 transition" />
+                            <img src="logos/logo4.png" alt="Kunde 4"
+                                class="h-12 md:h-16 object-contain opacity-80 hover:opacity-100 transition" />
+                            <img src="logos/logo5.png" alt="Kunde 5"
+                                class="h-12 md:h-16 object-contain opacity-80 hover:opacity-100 transition" />
+                            <!-- Du kannst die Reihe einfach wiederholen, damit der Loop flüssiger ist -->
+                            <img src="logos/logo1.png" alt="Kunde 1"
+                                class="h-12 md:h-16 object-contain opacity-80 hover:opacity-100 transition" />
+                            <img src="logos/logo2.png" alt="Kunde 2"
+                                class="h-12 md:h-16 object-contain opacity-80 hover:opacity-100 transition" />
+                            <img src="logos/logo3.png" alt="Kunde 3"
+                                class="h-12 md:h-16 object-contain opacity-80 hover:opacity-100 transition" />
+                            <img src="logos/logo4.png" alt="Kunde 4"
+                                class="h-12 md:h-16 object-contain opacity-80 hover:opacity-100 transition" />
+                            <img src="logos/logo5.png" alt="Kunde 5"
+                                class="h-12 md:h-16 object-contain opacity-80 hover:opacity-100 transition" />
+                        </div>
+                    </div>
+
+                    <style>
+                        @keyframes scroll {
+                            0% {
+                                transform: translateX(0);
+                            }
+
+                            100% {
+                                transform: translateX(-50%);
+                            }
+                        }
+
+                        .animate-scroll {
+                            width: 200%;
+                            animation: scroll 30s linear infinite;
+                        }
+                    </style>
+                </section>
+                <!-- PARTNER LOGO BANNER ENDE -->
                 <div style="height:200px;"></div> <!-- nur Platz zum Scrollen -->
                 <h2 style="text-align: center;">Unsere Kernkompetenzen</h2>
                 <p class="section-intro">Panoramic Insight vereint strategisches Denken, technologische Expertise und
@@ -503,8 +554,10 @@
                                 class="w-full h-64 object-cover group-hover:scale-110 transition duration-300">
                             <div
                                 class="absolute inset-0 bg-[#0D375D]/80 opacity-0 group-hover:opacity-100 transition flex flex-col justify-center items-center text-white p-6">
-                                <h3 class="text-xl font-semibold mb-2">Digitale Transformation im Maschinenbau</h3>
-                                <p class="text-sm text-center">Strategische Digitalisierung von Produktionsprozessen</p>
+                                <h3 class="text-xl font-semibold mb-2 text-white">Digitale Transformation im
+                                    Maschinenbau</h3>
+                                <p class="text-sm text-center text-white">Strategische Digitalisierung von
+                                    Produktionsprozessen</p>
                             </div>
                         </a>
 
