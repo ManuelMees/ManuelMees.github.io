@@ -734,3 +734,22 @@ textarea {
 .indikatoren .aktiv {
     background-color: white;
 }
+
+/* Logo_items settings Partner */
+.logo-item {
+    height: 64px;
+    /* Einheitliche Höhe */
+    width: 160px;
+    /* Einheitliche Breite */
+    object-fit: contain;
+    /* Skaliert ohne Verzerrung */
+    object-position: center;
+    margin: 0 1.5rem;
+    /* Abstand zwischen Logos */
+    opacity: 0.8;
+    transition: opacity 0.3s ease;
+}
+
+.logo-item:hover {
+    opacity: 1;
+}
