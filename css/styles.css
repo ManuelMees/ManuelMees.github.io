@@ -756,8 +756,8 @@ textarea {
 
 /* Case Studies Anpassungen */
 .case-thumb {
-    max-height: 60px;
-    max-width: 80px;
+    max-height: 100px;
+    max-width: 120px;
     object-fit: contain;
     display: block;
     margin: 0 auto;
