@@ -737,9 +737,9 @@ textarea {
 
 /* Logo_items settings Partner */
 .logo-item {
-    height: 24px;
+    height: 44px;
     /* Einheitliche Höhe */
-    width: 60px;
+    width: 100px;
     /* Einheitliche Breite */
     object-fit: contain;
     /* Skaliert ohne Verzerrung */
